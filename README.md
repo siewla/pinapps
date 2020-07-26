@@ -3,7 +3,13 @@
 ## Application Description
 This app serves to help its users organise and share the apps they commonly use.
 
+## Team Members
+#### 1. [Chee Kiong Neo](https://github.com/neocheekiong/)
+#### 2. [Siew La Pang](https://github.com/siewla/)
+
 ## Application link
+#### 1. [Back-End Repo](https://github.com/siewla/pinapps-backend)
+#### 2. [Front-End Repo](https://github.com/siewla/pinapps-frontend)
 
 ## Database/Storage
 * **MongoDB** is a document-oriented NoSQL database used for high volume data storage
