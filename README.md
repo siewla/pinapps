@@ -33,6 +33,7 @@ The objective of the project is to build a working full-stack application using 
 
 ## Difficulties faced
 * The authentication layer - nodemailer is easier to implement than @sendgrid/mail (the mail will go to spam)
+* The env parameter for react app must started with 'REACT_APP_'
 
 ## Wireframe Design and User Stories
 
