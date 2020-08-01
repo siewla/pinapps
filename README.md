@@ -33,6 +33,7 @@ The objective of the project is to build a working full-stack application using 
 
 ## Difficulties faced
 * The authentication layer - nodemailer is easier to implement than @sendgrid/mail (the mail will go to spam)
+* Sign in with google won't redirect even though the jwt token is saved in the cookie. 
 * The env parameter for react app must started with 'REACT_APP_'
 
 ## Wireframe Design and User Stories
