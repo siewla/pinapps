@@ -32,11 +32,13 @@ The objective of the project is to build a working full-stack application using 
 * The application is meeting the mininum viable product (MVP)'s requirements.
 
 ## Difficulties faced
+* The authentication layer - nodemailer is easier to implement than @sendgrid/mail (the mail will go to spam)
 
 ## Wireframe Design and User Stories
 
 
 ## RESTful Routes
+
 
 ## Additional Features were under Considerations
 
