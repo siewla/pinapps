@@ -65,7 +65,11 @@ The objective of the project is to build a working full-stack application using 
 <table><tr><td>
  <img src="/routes.png" />
 </td></tr></table>
+
 ## Additional Features were under Considerations
+* App submission and approval workflow - app can only be added to database upon admin approved it.
+* App rating by stars
+* Apps filtered by #hashtag
 
 ## Credits
 * All the **alpha trials users** and **fellow coursemates** 
