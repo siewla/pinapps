@@ -8,6 +8,10 @@ This app serves to help its users organise and share the apps they commonly use.
 #### 2. [Siew La Pang](https://github.com/siewla/)
 
 ## Application link
+#### 1. [PinApps Front-End](https://pinapps.herokuapp.com/)
+#### 2. [PinApps Back-End](http://pinapps-backend.herokuapp.com/api/apps/all)
+
+## Github Repositories
 #### 1. [Back-End Repo](https://github.com/siewla/pinapps-backend)
 #### 2. [Front-End Repo](https://github.com/siewla/pinapps-frontend)
 
@@ -35,9 +39,19 @@ This app serves to help its users organise and share the apps they commonly use.
 * **serve** is to serve a static site, single page application or just a static file.
 * **react-loading** is used to load animations for React projects. 
 * **react-promise-tracker** is a simple promise tracker React Hoc. 
+* **react-moment** is react component for the moment date library.
 
-## Objective
-The objective of the project is to build a working full-stack application using  **MERN** (MongoDB, Express, React and Node.js) and **CRUD** (Create, Read, Update and Delete) that adheres to **MVC** (Models, Views, and Controllers) file structure.
+## Objective/Minimum Viable Product (MVP)
+A working full-stack application using  **MERN** (MongoDB, Express, React and Node.js) and **CRUD** (Create, Read, Update and Delete) that adheres to **MVC** (Models, Views, and Controllers) file structure.
+
+## Project Scope
+* User is able to view top 3 apps in each category.
+* User is authenciated via Google oAuth or JWT.
+* User is able to view all comments after authenciated
+* User is able to add/edit/delete comments after authenciated
+* User is able to add new app after authenciated
+* User is able to reset password
+* User is able to like the app to add to my apps page
 
 ## Approaches Taken
 * set up a basic MVC structure with basic CRUD route in the backend
@@ -47,6 +61,7 @@ The objective of the project is to build a working full-stack application using 
 
 ## Accomplishments
 * The application is meeting the mininum viable product (MVP)'s requirements.
+* The Authenciation layer implemented using JWT, real email has to be used as account needed to be activated via token. 
 
 ## Difficulties faced
 * The authentication layer - nodemailer is easier to implement than @sendgrid/mail (the mail will go to spam)
