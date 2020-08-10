@@ -33,6 +33,8 @@ This app serves to help its users organise and share the apps they commonly use.
 * **mdbreact** is an UI KIT for building responsive, mobile-first websites and apps - free for personal & commercial use.
 * **react-google-login** is a Google oAUth Sign-in / Log-in Component for React
 * **serve** is to serve a static site, single page application or just a static file.
+* **react-loading** is used to load animations for React projects. 
+* **react-promise-tracker** is a simple promise tracker React Hoc. 
 
 ## Objective
 The objective of the project is to build a working full-stack application using  **MERN** (MongoDB, Express, React and Node.js) and **CRUD** (Create, Read, Update and Delete) that adheres to **MVC** (Models, Views, and Controllers) file structure.
