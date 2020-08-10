@@ -60,8 +60,9 @@ The objective of the project is to build a working full-stack application using 
 ### Show Apps By Category
 
 ## RESTful Routes
-
-
+<table><tr><td>
+ <img src="/routes.png" />
+</td></tr></table>
 ## Additional Features were under Considerations
 
 ## Credits
